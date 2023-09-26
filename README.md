@@ -12,4 +12,4 @@ In this group of methods, the LLM decides which sentence is importatnt in the te
 
 The implemented code in this project addresses the abstractuve summarization for a long text.
 
-I have used langchain and huggingface libraries to implement the chunking algorithm and use the summarization pipeline to summarize and lated combine the chunks to make the final output.
+I have used langchain and huggingface libraries to implement the chunking algorithm and use the summarization pipeline to summarize and combine the chunks to make the final abstract for the given text.
